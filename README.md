@@ -8,7 +8,7 @@ Should work for the course '185.A03 Funktionale Programmierung', Technical Unive
 You should be able to compile the program directly on the FKP server
 
 Clone the repository
-`git clone https://github.com/hope15/fkp_pointcalc`
+`git clone https://github.com/mjuen/fkp_pointcalc.git`
 
 Compile the sourcecode
 `make all` 
