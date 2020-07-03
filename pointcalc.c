@@ -1,7 +1,7 @@
 /**
  * @brief Sums up the points for all found FKP worksheets in 
  * the folder where the program is executed
- * @author(s) hope15, ...
+ * @author(s) mjuen, ...
  * @date 2016-12-01 
  */
 
